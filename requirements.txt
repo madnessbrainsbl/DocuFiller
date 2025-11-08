@@ -1,0 +1,10 @@
+python-docx>=0.8.11
+pymupdf>=1.23.0
+PyPDF2>=3.0.0
+reportlab>=4.0.0
+llm>=0.12.0
+llm-gigachat>=0.1.0
+ocrmypdf>=15.0.0
+pytesseract>=0.3.10
+Pillow>=10.0.0
+pywin32>=306; sys_platform == 'win32'
